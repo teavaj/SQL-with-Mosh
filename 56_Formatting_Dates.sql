@@ -1,0 +1,2 @@
+--SELECT DATE_FORMAT(NOW(), '%M %y')
+SELECT TIME_FORMAT(NOW(), '%h')
